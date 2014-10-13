@@ -10,8 +10,8 @@
 
 1 VP -> VerbT NP
 
-20 NP -> Det Nbar
-1 NP -> Proper
+20 NP -> Det (Adj) Nbar
+1 NP -> (Adj) Proper
 
 20 Nbar -> Noun
 1 Nbar -> Nbar PP

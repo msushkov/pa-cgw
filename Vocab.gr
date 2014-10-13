@@ -89,25 +89,25 @@
 
 
 # Adjectives.
-1	Misc ->	bloody
-1	Misc ->	weary
-1	Misc ->	unable
-1	Misc ->	trusty
-1	Misc ->	further
-1	Misc ->	sacred
-1	Misc ->	tropical
-1	Misc ->	indigenous
-1	Misc ->	temperate
-1	Misc ->	hot
-1	Misc ->	lucky
-1	Misc ->	simple
-1	Misc ->	tiny
-1	Misc ->	hard	
-1	Misc ->	sensational
-1	Misc ->	comparable
-1	Misc ->	angolian
-1	Misc ->	yellow
-1	Misc ->	plodding
+1	Adj ->	bloody
+1	Adj ->	weary
+1	Adj ->	unable
+1	Adj ->	trusty
+1	Adj ->	further
+1	Adj ->	sacred
+1	Adj ->	tropical
+1	Adj ->	indigenous
+1	Adj ->	temperate
+1	Adj ->	hot
+1	Adj ->	lucky
+1	Adj ->	simple
+1	Adj ->	tiny
+1	Adj ->	hard	
+1	Adj ->	sensational
+1	Adj ->	comparable
+1	Adj ->	angolian
+1	Adj ->	yellow
+1	Adj ->	plodding
 
 # Comparative adjectives.
 1	Misc ->	bloodier
