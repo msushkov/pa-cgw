@@ -6,7 +6,9 @@
 
 # This is a very, very, very simple grammar to get you started.
 
-1 S1 -> NP VP .
+10 S1 -> NP VP .
+1 S1 -> WhPron VP ?
+1 S1 -> WhPron DOES NP VerbBF ?
 
 1 VP -> VerbT NP
 

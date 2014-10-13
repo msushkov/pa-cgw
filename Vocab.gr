@@ -178,7 +178,7 @@
 
 # 'do'/'does'
 1	Misc ->	do
-1	Misc ->	does
+1	DOES -> does
 
 # 'to'
 1	Misc ->	to
@@ -187,17 +187,17 @@
 1	Misc ->	not
 
 # Verbs (base form).
-1	Misc ->	have
-1	Misc ->	speak
-1	Misc ->	cover
-1	Misc ->	be
-1	Misc ->	ride
-1	Misc ->	drink
-1	Misc ->	grow
-1	Misc ->	carry
-1	Misc ->	suggest
-1	Misc ->	migrate
-1	Misc ->	know
+1	VerbBF -> have
+1	VerbBF -> speak
+1	VerbBF -> cover
+1	VerbBF -> be
+1	VerbBF -> ride
+1	VerbBF -> drink
+1	VerbBF -> grow
+1	VerbBF -> carry
+1	VerbBF -> suggest
+1	VerbBF -> migrate
+1	VerbBF -> know
 
 # Verbs (past tense).
 1	Misc ->	had
@@ -266,8 +266,8 @@
 1	Misc ->	which
 
 # Wh-pronouns.
-1	Misc ->	what
-1	Misc ->	who
+1	WhPron -> what
+1	WhPron -> who
 
 # Wh possessive pronoun.
 1	Misc ->	whose
